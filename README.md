@@ -30,8 +30,7 @@ Automatizar el flujo de inicio de sesión en GitHub:
 - (Opcional) IntelliJ IDEA o Eclipse
 
 ### 2️⃣ Descargar GeckoDriver
-Descargar versión compatible desde:
-Mozilla Releases → (link agregado en README)
+Descargar versión compatible.
 Colocarlo en:
 ./drivers/geckodriver.exe
 
